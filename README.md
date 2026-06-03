@@ -34,21 +34,10 @@ A soothing, minimal, and eye-friendly theme inspired by the rich hues of coffee 
 
 ---
 
-## **Why Coffee Bean Theme?**
+## **Credits:**
+A fork of https://github.com/KOWSIK-M/coffee-bean-theme with improvements made to suit my needs.
 
-- Coding can be intense, and harsh themes strain your eyes. Coffee Bean Theme is **designed to relax your eyes** without compromising readability.
-- It’s not just a theme; it’s an **experience of coding with comfort**. 🌱
-
----
-
-## **Connect**
-
-🌐 Git : [Git Repo Link] (https://github.com/KOWSIK-M/coffee-bean-theme)
-💌 Email: [Your Email](2200030358@gmail.com)
-📱 Follow me on [LinkedIn](https://www.linkedin.com/in/medam-kowsik-975479282/) for updates!
 
 ---
 
-## **License**
-
-MIT License. Free to use and modify. 😊
+This project is Licensed under MIT, feel free to use as needed!

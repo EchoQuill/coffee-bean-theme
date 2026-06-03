@@ -2,12 +2,12 @@
   "name": "coffee-bean",
   "displayName": "Coffee Bean",
   "description": "A perfect theme for coffee addicts.",
-  "version": "0.0.1",
-  "publisher": "CoffeeBean",
+  "version": "0.0.2",
+  "publisher": "EchoQuill",
   "icon": "icon/coffee_bean.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KOWSIK-M/coffee-bean-theme"
+    "url": "https://github.com/EchoQuill/coffee-bean-theme"
   },
   "engines": {
     "vscode": "^1.96.0"
