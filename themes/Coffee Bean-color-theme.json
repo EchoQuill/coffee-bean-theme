@@ -1,5 +1,5 @@
 {
-    "name": "Coffee Bean (Improved)",
+    "name": "Coffee Bean",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
@@ -325,10 +325,9 @@
         },
         {
             "scope": [
-                "comment.line.scss",
-                "comment.line.double-slash.js",
+                "comment",
+                "comment.line",
                 "comment.block",
-                "comment.block.html",
                 "punctuation.definition.comment"
             ],
             "settings": {
